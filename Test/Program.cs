@@ -11,7 +11,8 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            SearchAndDelete();
+            //todo funciona hasta ahora//
+            //SearchAndDelete();
             //SearchAndDeleteOrdersID();
             //SearchAndDeleteOrdersbyCustomerID();
             //AgregarCliente();
